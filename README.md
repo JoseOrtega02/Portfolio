@@ -1,3 +1,7 @@
+**THANKS**
+thanks to gurupawar for this nice and easy to modify portfolio.
+
+
 **Portfolio**
 Live Preview - [Click Here](https://gportfolio.vercel.app)
 
