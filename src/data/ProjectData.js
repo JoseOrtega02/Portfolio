@@ -4,6 +4,13 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "https://user-images.githubusercontent.com/97007969/167229221-0e73efb0-62e4-4800-a8a2-e591e65540ff.gif",
+    title: "Clicker",
+    description: "Is an simple clicker game with 3 enemys and 3 objects ,you can defeat the enemys and buy the objects.",
+    tech_stack: "Html, Css, sass, Javascript, React/Redux",
+    github_url: "https://github.com/JoseOrtega02/Clicker",
+    demo_url: "https://clicker-nu.vercel.app",
+  },{
     img: "https://github.com/JoseOrtega02/e-commerce/blob/master/src/Assets/Ecommerce.png?raw=true",
     title: "Ecommerce",
     description: "A ecommerce with the Api of Rakuten, Made it with React and sass.",
