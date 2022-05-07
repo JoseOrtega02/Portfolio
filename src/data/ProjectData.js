@@ -65,6 +65,10 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/react.svg",
     name: "ReactJS",
   },
+  {
+    img: "http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png",
+    name: "Redux",
+  },
  
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/sass.svg",
